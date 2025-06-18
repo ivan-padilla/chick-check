@@ -1,0 +1,7 @@
+names:
+- female
+- male
+nc: 2
+test: ''
+train: /content/drive/MyDrive/YOLOv10_1/dataset/train/images
+val: /content/drive/MyDrive/YOLOv10_1/dataset/valid/images
