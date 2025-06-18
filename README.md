@@ -1,5 +1,5 @@
 # Chick-Check: Design and Development of a Feather Sexing Machine for Chicks Using YOLOv10 and UV Optical System
-
+![Alt text](runs/detect/train/val_batch0_pred.jpg)
 ## Overview  
 This repository contains the dataset and training pipeline used in our research, *Chick-Check: Design and Development of a Feather Sexing Machine for Chicks Using YOLOv10 and UV Optical System*, presented at the **2024 IEEE HNICEM** conference.
 It includes a **cleaned and labeled dataset** of chick images captured under ultraviolet (UV) light, as well as a **Jupyter Notebook** that demonstrates training a YOLOv10 model for feather-based sex classification.
